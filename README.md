@@ -1,4 +1,4 @@
-# project Learning to learn
+# Project: Learning to Learn
 
 ## version 0.0.1
 
