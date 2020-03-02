@@ -1,1 +1,17 @@
-# studying
+# project Learning to learn
+
+## version 0.0.1
+
+## http://imoysevich.github.io/studying
+
+### Description
+The project is a single-page website about different theories of learning. It was used for practicing HTML and CSS in online school Yandex.Praktikum.
+
+Here I learnt 
+* to create a website using a designer's layout.  
+* to use BEM
+* to use flexbox and grid layout
+* to work with animation, fonts and frames
+
+### Technology used
+HTML, CSS
