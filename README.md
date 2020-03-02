@@ -5,7 +5,7 @@
 ## http://imoysevich.github.io/studying
 
 ### Description
-The project is a single-page website about different theories of learning. It was used for practicing HTML and CSS in online school Yandex.Praktikum.
+The project is a single-page website about different theories of learning. It was used for practicing HTML and CSS.
 
 Here I learnt 
 * to create a website using a designer's layout.  
