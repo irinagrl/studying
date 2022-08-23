@@ -1,8 +1,8 @@
 # Project: Learning to Learn
 
-## version 0.0.2
+### version 0.0.2
 
-## http://irinamsvch.github.io/studying
+### http://irinagrl.github.io/studying
 
 ### Description
 The project is a single-page website about different theories of learning. It was used for practicing HTML and CSS.
